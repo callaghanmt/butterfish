@@ -1,4 +1,4 @@
-module github.com/bakks/butterfish
+module github.com/callaghanmt/butterfish
 
 go 1.22
 
